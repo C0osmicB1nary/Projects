@@ -1,4 +1,4 @@
-﻿Dr. Cosmo Byte's Project Notes
+Project Notes
 
 Project: Dark Resonance
 
