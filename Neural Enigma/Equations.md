@@ -118,10 +118,4 @@ Equation 30: Quantum Chiral Anomaly
 
 ∂\_μJ\_μ^5 = (e^2/32π^2) ε^(μνρσ) F\_μνF\_ρσ
 
-Equation 31: Esoteric Rotational Cryptarithm
 
-w3 = 9IIAD,i^^.D925@H7:C6DJ?5:42E6,].H@C5AC6DD,].4@>
-
-Equation 32: Hyperbolic Singularities in General Relativity
-
-R\_uv − (1/2) R g\_uv = T\_uv − Λ g\_uv + Φ\_uv
